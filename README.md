@@ -12,5 +12,6 @@ Creative assets for creating a better Skryim UI for PC users.
 
 
 ## Release Notes: ##
-Released under Creative Commons license:
-http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Released under Creative Commons license.
+Easy Mode: http://creativecommons.org/licenses/by-nc-sa/3.0/
+Expert Mode: http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
