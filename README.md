@@ -1,19 +1,16 @@
-Skyrim PC UI
+# Skyrim PC UI #
 -------------------------------------------------------------
 
 Creative assets for creating a better Skryim UI for PC users.
 
 
 
-Current Assets
--------------------------------------------------------------
--------------------------------------------------------------
+## Current Assets##
+
 -	PSD For Apparel Inventory (2 Views)
 
 
 
-Release Notes:
--------------------------------------------------------------
--------------------------------------------------------------
+## Release Notes: ##
 Released under Creative Commons license:
 http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
